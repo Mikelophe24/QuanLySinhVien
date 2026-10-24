@@ -1,0 +1,20 @@
+# Thư mục biên dịch
+build/
+build_check/
+*.class
+
+# File tạm sinh ra khi build bằng .bat
+sources.txt
+
+# File cấu hình IDE
+.idea/
+*.iml
+nbproject/private/
+.settings/
+.classpath
+.project
+
+# Log, file tạm hệ điều hành
+*.log
+Thumbs.db
+.DS_Store
